@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VCS 2024</string>
+    <string name="gam">GAM Esports</string>
+    <string name="viking">Viking Esports</string>
+    <string name="teamwhale">TeamWhale</string>
+    <string name="contentDescription_gam">gam_logo</string>
+    <string name="contentDescription_viking">viking_logo</string>
+    <string name="contentDescription_teamwhale">teamwhale_logo</string>
+    <string name="cerberus">CERBERUS</string>
+    <string name="MGN">MGN Blue Esports</string>
+    <string name="rainbow">Rainbow Warriors</string>
+    <string name="flash">Team Flash</string>
+    <string name="secret">Team Secret</string>
+    <string name="contentDescription_ces">ces_logo</string>
+    <string name="contentDescription_mgn">mgn_logo</string>
+    <string name="contentDescription_rainbow">rainbowwariors_logo</string>
+    <string name="contentDescription_flash">team_flash_logo</string>
+    <string name="contentDescription_secret">team_secret_logo</string>
+</resources>
